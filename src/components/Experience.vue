@@ -4,7 +4,7 @@ import TimelineItem from './TimelineItem.vue';
 
 const experiences = ref([
   {
-    title: 'Web Developer(Full Stack)',
+    title: 'Web Developer (Frontend)',
     period: '04/05/2025 – PRESENT',
     organization: 'Tai Solarin University of Education',
     location: 'Ijebu-Ode',
