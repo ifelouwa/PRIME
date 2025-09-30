@@ -42,7 +42,7 @@ const toggleMenu = () => {
       <!-- Hero Section -->
       <section id="home" class="hero-section">
         <div class="hero-content">
-          <h1>IFEOLUWA CHUKWUEMEKA OWORU</h1>
+          <h1>IFEOLUWA OWORU</h1>
           <h2>PRIMORDIAL</h2>
           <p>Full Stack Web Developer</p>
           <div class="cta-buttons">
