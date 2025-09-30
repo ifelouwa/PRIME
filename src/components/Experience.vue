@@ -4,9 +4,9 @@ import TimelineItem from './TimelineItem.vue';
 
 const experiences = ref([
   {
-    title: 'Web Developer (Frontend)',
+    title: 'Web Developer',
     period: '04/05/2025 – PRESENT',
-    organization: 'Tai Solarin University of Education',
+    organization: 'Tai Solarin Federal University of Education',
     location: 'Ijebu-Ode',
     description: '',
     points: [
@@ -18,7 +18,7 @@ const experiences = ref([
   },
   {
     title: 'IT Staff',
-    period: 'JUN 2024 – PRESENT',
+    period: 'JUN 2024 – JUN 2025',
     organization: 'Lagos State University of Education (NYSC)',
     location: '',
     description: '',
@@ -87,23 +87,14 @@ const certificates = ref([
     isLeft: false
   },
   {
-    title: 'SIWES Training (3 Months)',
-    period: 'FEB 2022',
-    organization: 'Ifix Computers',
+    title: 'Backend Development (3 Months)',
+    period: 'AUG 2025 - OCT 2025',
+    organization: 'TECHCRUSH',
     location: '',
     description: '',
     points: [],
     isLeft: true
   },
-  {
-    title: 'Web Design Training',
-    period: '2021–2022, 2024–2025',
-    organization: 'ICT Centre',
-    location: '',
-    description: '',
-    points: [],
-    isLeft: false
-  }
 ]);
 </script>
 

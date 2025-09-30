@@ -11,27 +11,6 @@ const projects = ref([
     technologies: ['HTML', 'CSS', 'JavaScript']
   },
   {
-    title: 'Fake News Classifier',
-    description: 'NLP-based machine learning project that detects and classifies fake news articles using text analysis.',
-    githubLink: 'https://github.com/ifelouwa/fruit-classifier',
-    liveLink: '',
-    technologies: ['Python', 'Pandas', 'NumPy']
-  },
-  {
-    title: 'UNISCA',
-    description: 'Frontend perfume store website using HTML, CSS.',
-    githubLink: 'https://github.com/ifelouwa/Fragrance',
-    liveLink: '',
-    technologies: ['HTML', 'CSS']
-  },
-  {
-    title: 'Waterloo University',
-    description: 'Frontend clone of a prestigious university website.',
-    githubLink: 'https://github.com/ifelouwa/Waterloo',
-    liveLink: '',
-    technologies: ['HTML', 'CSS']
-  },
-  {
     title: 'Calculator',
     description: 'A functional calculator application with a clean interface.',
     githubLink: 'https://github.com/yourusername/calculator',
@@ -44,13 +23,6 @@ const projects = ref([
     githubLink: 'https://github.com/yourusername/weather-app',
     liveLink: '',
     technologies: ['JavaScript', 'API', 'HTML', 'CSS']
-  },
-  {
-    title: 'Fruit Classifier',
-    description: 'Machine learning model that classifies different types of fruits from images with high accuracy.',
-    githubLink: 'https://github.com/ifelouwa/fruit-classifier',
-    liveLink: '',
-    technologies: ['Python', 'Matplotlib', 'Pandas']
   },
   {
     title: 'Recipe App',

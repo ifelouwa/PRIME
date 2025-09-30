@@ -44,7 +44,7 @@ const toggleMenu = () => {
         <div class="hero-content">
           <h1>IFEOLUWA CHUKWUEMEKA OWORU</h1>
           <h2>PRIMORDIAL</h2>
-          <p>Full Stack Web Developer | Machine Learning Enthusiast</p>
+          <p>Full Stack Web Developer</p>
           <div class="cta-buttons">
             <a href="#contact" class="btn primary-btn">Contact Me</a>
             <a href="#projects" class="btn secondary-btn">View Projects</a>
@@ -61,7 +61,7 @@ const toggleMenu = () => {
           </div>
           <div class="about-text">
             <p>I'm a passionate and curious Full Stack Web Developer who enjoys building things that live on the internet. With hands-on experience using HTML, CSS, JavaScript, Vue.js, Node.js, MySQL, and other modern web technologies, I thrive on crafting clean, efficient, and user-friendly solutions.</p>
-            <p>I'm also deeply interested in Machine Learning, often exploring projects with Python, Pandas, and Matplotlib to bring data to life. Whether it's frontend creativity or backend logic, I'm always eager to learn, collaborate, and contribute meaningfully to any tech-forward team.</p>
+            <!-- <p>I'm also deeply interested in Machine Learning, often exploring projects with Python, Pandas, and Matplotlib to bring data to life. Whether it's frontend creativity or backend logic, I'm always eager to learn, collaborate, and contribute meaningfully to any tech-forward team.</p> -->
           </div>
         </div>
       </section>
@@ -79,11 +79,11 @@ const toggleMenu = () => {
               <div class="skill-item">JavaScript</div>
               <div class="skill-item">Vue.js</div>
               <div class="skill-item">Node.js</div>
-              <div class="skill-item">PHP</div>
               <div class="skill-item">MySQL</div>
               <div class="skill-item">MongoDB</div>
             </div>
           </div>
+          <!--
           <div class="skill-category">
             <h3>Machine Learning & Data</h3>
             <div class="skill-items">
@@ -93,12 +93,14 @@ const toggleMenu = () => {
               <div class="skill-item">Data Visualization</div>
             </div>
           </div>
+          -->
           <div class="skill-category">
             <h3>Tools & Others</h3>
             <div class="skill-items">
               <div class="skill-item">Git & GitHub</div>
               <div class="skill-item">Vercel</div>
               <div class="skill-item">VS Code</div>
+              <div class="skill-item">Communication</div>
               <div class="skill-item">Problem-Solving</div>
               <div class="skill-item">Teamwork</div>
             </div>
