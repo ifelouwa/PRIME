@@ -13,7 +13,7 @@ A modern, responsive personal portfolio website built with Vue 3 and Vite, showc
 
 ## Live Demo
 
-Visit the live site: [PRIMORDIAL Portfolio]([https://primordial-portfolio.vercel.app](https://prime-two-rho.vercel.app/)) (Update this URL after deployment)
+Visit the live site: [PRIMORDIAL Portfolio]([https://primordial-portfolio.vercel.app](https://prime-two-rho.vercel.app/]) 
 
 ## Technologies Used
 
@@ -78,4 +78,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Ifeoluwa Chukwuemeka Oworu - [Your Email or Contact Information]
+Ifeoluwa Chukwuemeka Oworu - [ifeoluwaoworu@gmail.com]
